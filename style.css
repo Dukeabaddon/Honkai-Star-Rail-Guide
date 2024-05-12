@@ -1375,7 +1375,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: url(characters/bg-huohuo.jpg) no-repeat;
+  background-color: #252b47;
   background-size: cover;
   background-position: center;
   overflow: hidden;
