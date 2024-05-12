@@ -1034,11 +1034,11 @@ font-weight: bold;
  
   /*GAME*/
   .game_background {
-      background-image: url(/wallpaper/penacony_2.png);
-      height: 100vh;
-      width: 100%;
-      overflow: hidden;
-      background-repeat: no-repeat;
+    background-image: url(wallpaper/penacony_2.png);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .aventurine_game {
       width: 750px;
@@ -1077,6 +1077,10 @@ font-weight: bold;
   /*NEWS*/
   #news_background {
       background-image: url(wallpaper/train.png);
+      height: 100vh;
+      width: 100%;
+      background-repeat: no-repeat;
+     background-size: cover;
   }
   .news_header {
       text-align: center;
